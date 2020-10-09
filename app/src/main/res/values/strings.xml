@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">My Application</string>
+
+        <string-array name="sourah">
+            <item>01 الفاتحة </item>
+            <item>02 البقرة</item>
+            <item>03 ال عمران</item>
+            <item>04 النساء</item>
+            <item>05المائدة</item>
+            <item>06 الانعام</item>
+            <item>07 الاعراف</item>
+            <item>08 الانفال</item>
+        </string-array>
+
+
+</resources>
